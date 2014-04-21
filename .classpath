@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/CB07152567/.gradle/caches/artifacts-23/filestore/joda-time/joda-time/2.2/source/ad622e3cfe39319ea53b183aa5615f96ff346584/joda-time-2.2-sources.jar" kind="lib" path="C:/Users/CB07152567/.gradle/caches/artifacts-23/filestore/joda-time/joda-time/2.2/jar/a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d/joda-time-2.2.jar" exported="true"/>
+</classpath>
