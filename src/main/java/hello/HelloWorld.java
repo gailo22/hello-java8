@@ -7,7 +7,7 @@ public class HelloWorld {
 		execute(() -> System.out.println("Hello, world"));
 
 	}
-	
+
 	public static void execute(Greeter greeter) {
 		greeter.sayHello();
     }
